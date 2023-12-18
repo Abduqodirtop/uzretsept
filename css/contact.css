@@ -1,0 +1,64 @@
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-image: url('../img/fr.jpg');
+}
+.body{
+    background-color: black;
+}
+
+.header__wrapper {
+    
+}
+.header__card {
+    
+}
+.header__text {
+    font-size: 50px;
+    color: rgb(246, 152, 0);
+    background-color: rgb(255, 242, 0);
+    transition: 05s all;
+}
+.header__text:hover{
+    border-bottom: 3px solid;
+    border-top: 3px solid red;
+    border-left: 3px solid red; 
+    border-right: 3px solid red; 
+    transition: 02s all;
+}
+.hero {
+padding: 100px;
+}
+
+
+.hero__wrapper {
+
+
+}
+.hero__header {
+color: rgb(255, 255, 255);
+font-size: 25px;
+}
+.hero__text-wrapper{
+    padding-left: 4px;
+}
+.hero__list {
+display: flex;
+justify-content: space-between;
+
+}
+.hero__item {
+
+}
+.hero__item-text{
+ 
+}

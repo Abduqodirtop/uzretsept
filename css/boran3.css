@@ -1,0 +1,38 @@
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+.header{
+
+}
+.header__wrapper{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.header__titel{
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+.header__text{
+    color: #4d4d4d;
+    font-size: .875rem;
+    font-weight: 400;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.header__span{
+    color: #242424;
+    font-weight: 600;
+    max-width: none;
+    text-align: right;
+    white-space: nowrap;
+    vertical-align: bottom;
+}

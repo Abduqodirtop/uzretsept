@@ -1,0 +1,35 @@
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+.header{
+background-image: url('../img/vegetables-set-to-the-left-of-a-black-slate_1220-685.avif');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+padding: 200px 0 410px;
+}
+.header__wrapper{
+
+}
+.header__list{
+display: flex;
+}
+.header__item{
+padding-left: 50px;
+}
+.header__link{
+font-size: 50px;
+color: rgb(255, 196, 0);
+transition: all 0.4s;
+}
+.header__link:hover{
+color: brown;
+}
