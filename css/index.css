@@ -9,3 +9,22 @@
     margin: 0;
     padding: 0;
 }
+.header{
+
+}
+.header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+.header__list{
+display: flex
+}
+.header__item{
+padding-left: 20px;
+}
+.header__titel{
+    color: brown;
+    font-size: 30px;
+}
