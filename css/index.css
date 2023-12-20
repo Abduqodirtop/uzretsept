@@ -3,27 +3,9 @@
     margin: 0 auto;
     padding: 0 20px;
 }
-.header {
-    background-color: black;
-    background-size: cover;
-    padding-bottom: px;
-}
-.container {
-}
-.header__wrapper {
-}
-.header__card {
-display: flex;
-}
-.header__titel {
-font-size: 50px;
-max-width: 200px;
-color: aqua;
-}
-.header__btn{
-    padding: 10px 35px 10px 37px;
-    color: aqua;
-    background-color: rgba(0, 0, 0, 0.991);
-    margin-left: 20px;
-    margin-right: 20px;
+*{
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
 }
